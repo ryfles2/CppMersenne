@@ -1,5 +1,9 @@
 #include <iostream>
 
+
+//lucas lehmer
+//mersenne
+
 int main()
 {
 
